@@ -1,4 +1,4 @@
-# transformer-translator-pytorch
+# LinguisticBridge-PyTorch
 This is a machine translation project using the basic **Transformer** introduced in *Attention is all you need*[[1]](#1).
 
 I used English-French corpus provided by "European Parliament Proceedings Parallel Corpus 1996-2011"[[2]](#2).
